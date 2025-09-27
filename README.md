@@ -1,3 +1,8 @@
+# HolyGL4ES
+This is a fork of GL4ES 1.1.5 with fixes targetting specifically Minecraft: Java Edition.
+
+____
+
 ![logo](gl4es.png "gl4es logo")
 
 GL4ES - OpenGL for GLES Hardware
